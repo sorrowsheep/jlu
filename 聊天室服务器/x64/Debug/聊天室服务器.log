@@ -1,0 +1,4 @@
+﻿  Chatserve.cpp
+C:\Users\Qiufe\source\repos\写程序 - 副本\聊天室服务器\Chatserve.cpp(34,42): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\Qiufe\source\repos\写程序 - 副本\聊天室服务器\Chatserve.cpp(84,64): warning C4312: “类型强制转换”: 从“int”转换到更大的“LPVOID”
+  聊天室服务器.vcxproj -> C:\Users\Qiufe\source\repos\写程序 - 副本\写程序1\x64\Debug\聊天室服务器.exe

@@ -1,0 +1,17 @@
+﻿  QQfunction.cpp
+C:\Users\Qiufe\source\repos\写程序 - 副本\写程序1\QQfunction.cpp(193,13): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\Qiufe\source\repos\写程序 - 副本\写程序1\QQfunction.cpp(238,41): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\Qiufe\source\repos\写程序 - 副本\写程序1\QQfunction.cpp(353,36): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\Qiufe\source\repos\写程序 - 副本\写程序1\QQfunction.cpp(1078,10): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\Qiufe\source\repos\写程序 - 副本\写程序1\QQfunction.cpp(1097,47): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\Qiufe\source\repos\写程序 - 副本\写程序1\QQfunction.cpp(1545,49): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\Qiufe\source\repos\写程序 - 副本\写程序1\QQfunction.cpp(2024,39): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\Qiufe\source\repos\写程序 - 副本\写程序1\QQfunction.cpp(3062,9): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\Qiufe\source\repos\写程序 - 副本\写程序1\QQfunction.cpp(3183,9): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\Qiufe\source\repos\写程序 - 副本\写程序1\QQfunction.cpp(3885,10): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\Qiufe\source\repos\写程序 - 副本\写程序1\QQfunction.cpp(3911,20): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\Qiufe\source\repos\写程序 - 副本\写程序1\QQfunction.cpp(4000,10): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\Qiufe\source\repos\写程序 - 副本\写程序1\QQfunction.cpp(4029,16): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\Qiufe\source\repos\写程序 - 副本\写程序1\QQfunction.cpp(4101,11): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\Qiufe\source\repos\写程序 - 副本\写程序1\QQfunction.cpp(4201,11): warning C4267: “return”: 从“size_t”转换到“int”，可能丢失数据
+  即时通信系统.vcxproj -> C:\Users\Qiufe\source\repos\即时通信系统\x64\Debug\即时通信系统.exe

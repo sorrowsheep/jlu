@@ -1,0 +1,3 @@
+﻿  ChatClient.cpp
+C:\Users\Qiufe\source\repos\写程序 - 副本\聊天室客户端\ChatClient.cpp(12,27): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+  聊天室客户端.vcxproj -> C:\Users\Qiufe\source\repos\写程序 - 副本\写程序1\x64\Debug\聊天室客户端.exe
